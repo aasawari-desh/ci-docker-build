@@ -3,9 +3,9 @@ import streamlit as st
 import plotly.graph_objects as go
 import numpy as np
 
-st.set_page_config(page_title="Financial Planning Calculator11")
+st.set_page_config(page_title="Financial Planning Calculator12")
 
-st.title("Financial Planning Calculator-Nov-2022")
+st.title("Financial Planning Calculator-Oct-2022")
 
 st.header("**Monthly Income-Nov-2022**")
 st.subheader("Salary-2022")
